@@ -1,0 +1,3 @@
+gcc –o first first.c
+
+./first 
